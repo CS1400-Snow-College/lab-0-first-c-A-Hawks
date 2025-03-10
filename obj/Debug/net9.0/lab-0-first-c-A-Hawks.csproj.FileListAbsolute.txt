@@ -1,0 +1,15 @@
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.AssemblyInfoInputs.cache
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.AssemblyInfo.cs
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.csproj.CoreCompileInputs.cache
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.sourcelink.json
+C:\Users\14252\lab-0-first-c-A-Hawks\bin\Debug\net9.0\lab-0-first-c-A-Hawks.exe
+C:\Users\14252\lab-0-first-c-A-Hawks\bin\Debug\net9.0\lab-0-first-c-A-Hawks.deps.json
+C:\Users\14252\lab-0-first-c-A-Hawks\bin\Debug\net9.0\lab-0-first-c-A-Hawks.runtimeconfig.json
+C:\Users\14252\lab-0-first-c-A-Hawks\bin\Debug\net9.0\lab-0-first-c-A-Hawks.dll
+C:\Users\14252\lab-0-first-c-A-Hawks\bin\Debug\net9.0\lab-0-first-c-A-Hawks.pdb
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.dll
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\refint\lab-0-first-c-A-Hawks.dll
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.pdb
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\lab-0-first-c-A-Hawks.genruntimeconfig.cache
+C:\Users\14252\lab-0-first-c-A-Hawks\obj\Debug\net9.0\ref\lab-0-first-c-A-Hawks.dll
